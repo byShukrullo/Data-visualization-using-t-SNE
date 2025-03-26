@@ -4,6 +4,10 @@
 
 This Python script provides a flexible tool for performing t-SNE (t-Distributed Stochastic Neighbor Embedding) visualization on your datasets. t-SNE is a powerful technique for dimensionality reduction and visualizing high-dimensional data in a 2D space.
 
+# Example output visualization 
+
+![Data-visualisation-using-t-SNE](/images/output123.png)
+
 ## Features
 
 - Support for CSV and Excel file formats
