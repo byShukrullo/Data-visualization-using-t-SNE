@@ -6,7 +6,7 @@ This Python script provides a flexible tool for performing t-SNE (t-Distributed 
 
 # Example output visualization 
 
-![Data-visualisation-using-t-SNE](/images/output123.png)
+![Data-visualisation-using-t-SNE](/output123.png)
 
 ## Features
 
